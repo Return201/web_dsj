@@ -54,3 +54,7 @@ body {
 .layui-form-item .pa {
     padding-left: 30px;
 }
+
+.layui-form .mar {
+    margin-top: 68px;
+}
